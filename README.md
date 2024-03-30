@@ -75,4 +75,5 @@ Additional protection against EAC for Apex Legends on Linux
     
     Original post: https://www.unknowncheats.me/forum/apex-legends/578114-method-bypass-eac-linux-trick-04-05-2023-a.html
     
-    Just one thing to keep in mind when Easy anti cheat runtime receives an update the "--none" launch option gets removed, so when that happens just write it back on the launch options.
+    Just one thing to keep in mind when Easy anti cheat runtime receives an update the "--none" launch 
+    option gets removed, so when that happens just write it back on the launch options.
