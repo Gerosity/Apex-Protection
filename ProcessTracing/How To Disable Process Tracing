@@ -1,0 +1,7 @@
+GoTo:
+/ect/sysctl.d/10-ptrace.conf
+Edit:
+kernel.yama.ptrace_scope = 1
+To:
+kernel.yama.ptrace_scope = 2
+Save and close
