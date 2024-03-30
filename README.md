@@ -5,6 +5,8 @@ Additional protection against EAC for Apex Legends on Linux
     1. MAC Changer - Randomises your MAC Address (Temporary, resets after restarting PC)
     2. Enable Process Isolation Guide - non-root users are unable to see root processes/services
     3. Disable Process Tracing Guide - non-root users cannot use ptrace capabilities.
+    4. Checking
+    5. [Old, Untested] EAC Bypass(?)
 
 # 1. MAC Changer Guide (Temporary)
 **1.1 Install macchanger**
@@ -57,9 +59,17 @@ Additional protection against EAC for Apex Legends on Linux
 
     Open ApexProtection/ in terminal
     First, enable execution of the script by entering:
-            chmod +x check.sh
-        Then execute the script with
-            ./check.sh
-        Follow terminal instructions
+        chmod +x check.sh
+    Then execute the script with
+        ./check.sh
+    Follow terminal instructions
 
-    
+# 5. (Old, Untested) EAC Bypass (?) 
+    Go to Steam
+    1. In library search for Easy Anti Cheat then click Properties, on launch options put --none
+    2. Now go to Compatibility - enable it and set it up to steam Linux runtime
+    3. Go to Betas - change it to "test - test branch (may break things)"
+    4. Close it - go back to steam and search for steam linux runtime, there should be 3 total runtimes, install them all and right click on Properties for each one and go to Betas - set it up to previous - previous default build
+    Original post: https://www.unknowncheats.me/forum/apex-legends/578114-method-bypass-eac-linux-trick-04-05-2023-a.html
+
+    Just one thing to keep in mind when Easy anti cheat runtime receives an update the "--none" launch option gets removed, so when that happens just write it back on the launch options.
