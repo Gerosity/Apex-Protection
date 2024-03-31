@@ -1,6 +1,8 @@
 # Apex-Protection
 Additional protection against EAC for Apex Legends on Linux
 
+**Requires flatpak steam to be installed**
+
 # Includes:
     1. MAC Changer - Randomises your MAC Address (Temporary, resets after restarting PC)
     2. Enable Process Isolation Guide - non-root users are unable to see root processes/services
