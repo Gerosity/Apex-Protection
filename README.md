@@ -1,6 +1,8 @@
 # Apex-Protection
 Additional protection against EAC for Apex Legends on Linux
 
+Not fully tested but it won't hurt not using it
+
 **Requires flatpak steam to be installed**
 
 # Includes:
