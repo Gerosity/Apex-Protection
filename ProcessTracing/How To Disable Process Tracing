@@ -1,5 +1,5 @@
 GoTo:
-/ect/sysctl.d/10-ptrace.conf
+/etc/sysctl.d/10-ptrace.conf
 Edit:
 kernel.yama.ptrace_scope = 1
 To:
