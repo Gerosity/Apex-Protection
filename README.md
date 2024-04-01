@@ -52,7 +52,7 @@ Not fully tested but it won't hurt not using it
     Follow Instructions In The Text File
     Or
     GoTo:
-    /ect/sysctl.d/10-ptrace.conf
+    /etc/sysctl.d/10-ptrace.conf
     Edit:
     kernel.yama.ptrace_scope = 1
     To:
