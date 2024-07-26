@@ -5,6 +5,8 @@ Not fully tested but it won't hurt not using it
 
 **Requires flatpak steam to be installed**
 
+**Note: This is partially outdated, either apply step 2 & 3 in the lobby of the game or use sentinelguard (https://www.unknowncheats.me/forum/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)**
+
 # Includes:
     1. MAC Changer - Randomises your MAC Address (Temporary, resets after restarting PC)
     2. Enable Process Isolation Guide - non-root users are unable to see root processes/services
